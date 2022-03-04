@@ -15,7 +15,7 @@ On the successful completion of the course, I am now be able to:
 
 ### Outline of Topics in the Course
 1. Introduction to data mining
-2. Data (Structured/Unstructured and more)
+2. Data
 3. Data Exploratory Analysis
 4. Classification I (Basic Concepts and Techniques)
 5. Classification II (Alternative Techniques)
