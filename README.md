@@ -13,7 +13,7 @@ On the successful completion of the course, I am now be able to:
   - Build, implement and adapt data mining models for a particular problem
   - Analyze and compare the performance of models
 
-### Outline of Topics in the Course (Subject to Change)
+### Outline of Topics in the Course
 1. Introduction to data mining
 2. Data
 3. Data Exploratory Analysis
