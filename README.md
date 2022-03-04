@@ -1,5 +1,5 @@
-# CSCI-4150U
-Data MIning
+# CSCI-4150U - Data Mining
+
 ### Course Description
 This course introduces the fundamental concepts, principles and techniques in data mining. It provides students with the expertise to identify/define classic data mining problems and extract useful knowledge from raw data. The lectures introduce different data mining models and cover topics, such as data preprocessing, classification,clustering, anomaly detection, and association rule mining. 
 
