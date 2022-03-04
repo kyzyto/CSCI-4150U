@@ -4,7 +4,7 @@ Data MIning
 This course introduces the fundamental concepts, principles and techniques in data mining. It provides students with the expertise to identify/define classic data mining problems and extract useful knowledge from raw data. The lectures introduce different data mining models and cover topics, such as data preprocessing, classification,clustering, anomaly detection, and association rule mining. 
 
 ### Tutorial Description
-The laboratories provide students with an opportunity to understand the data mining pipeline and gain hands-on experience on ideas discussed in lectures.
+The tutorials/laboratories provided an opportunity to understand the data mining pipeline and gain hands-on experience on ideas discussed in lectures.
 
 ### Learning Outcomes
 On the successful completion of the course, I am now be able to:
