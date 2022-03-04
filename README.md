@@ -8,10 +8,10 @@ The laboratories provide students with an opportunity to understand the data min
 
 ### Learning Outcomes
 On the successful completion of the course, I am now be able to:
-• Understand data mining techniques for solving well-known problems
-• Apply data exploratory techniques to understand data in different domains
-• Build, implement and adapt data mining models for a particular problem
-• Analyze and compare the performance of models
+  - Understand data mining techniques for solving well-known problems
+  - Apply data exploratory techniques to understand data in different domains
+  - Build, implement and adapt data mining models for a particular problem
+  - Analyze and compare the performance of models
 
 ### Outline of Topics in the Course (Subject to Change)
 1. Introduction to data mining
