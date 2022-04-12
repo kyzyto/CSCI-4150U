@@ -1,5 +1,12 @@
-# CSCI-4150U - Data Mining
-
+# CSCI-4150U
+## `Data Mining`
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></p><p><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+<p>
+  
 ### Course Description
 This course introduces the fundamental concepts, principles and techniques in data mining. It provides students with the expertise to identify/define classic data mining problems and extract useful knowledge from raw data. The lectures introduce different data mining models and cover topics, such as data preprocessing, classification,clustering, anomaly detection, and association rule mining. 
 
